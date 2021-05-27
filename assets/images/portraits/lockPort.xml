@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lockPort.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Locky Phased Portrait Enter0000" x="0" y="0" width="191" height="271"/>
+	<SubTexture name="Locky Phased Portrait Enter0001" x="191" y="0" width="191" height="271"/>
+	<SubTexture name="Locky Phased Portrait Enter0002" x="382" y="0" width="191" height="271"/>
+	<SubTexture name="Locky Phased Portrait Enter0003" x="573" y="0" width="191" height="271"/>
+	<SubTexture name="Locky Portrait Enter0000" x="764" y="0" width="191" height="271"/>
+	<SubTexture name="Locky Portrait Enter0001" x="0" y="271" width="191" height="271"/>
+	<SubTexture name="Locky Portrait Enter0002" x="191" y="271" width="191" height="271"/>
+	<SubTexture name="Locky Portrait Enter0003" x="382" y="271" width="191" height="271"/>
+</TextureAtlas>

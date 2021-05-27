@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luckyPort.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lucky Portrait Enter0000" x="1" y="1" width="259" height="253"/>
+	<SubTexture name="Lucky Portrait Enter0001" x="261" y="1" width="259" height="253"/>
+	<SubTexture name="Lucky Portrait Enter0002" x="521" y="1" width="259" height="253"/>
+	<SubTexture name="Lucky Portrait Enter0003" x="1" y="255" width="259" height="253"/>
+</TextureAtlas>
