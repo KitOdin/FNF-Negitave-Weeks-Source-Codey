@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Head_Aseets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Head DOWN NOTE0000" x="0" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0001" x="0" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0002" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0003" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0004" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0005" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0006" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0007" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0008" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0009" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0010" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0011" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0012" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0013" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head DOWN NOTE0014" x="416" y="0" width="416" height="436"/>
+	<SubTexture name="Head IDLE0000" x="832" y="0" width="609" height="412"/>
+	<SubTexture name="Head IDLE0001" x="1441" y="0" width="609" height="412"/>
+	<SubTexture name="Head IDLE0002" x="2050" y="0" width="609" height="412"/>
+	<SubTexture name="Head IDLE0003" x="2659" y="0" width="609" height="412"/>
+	<SubTexture name="Head IDLE0004" x="3268" y="0" width="609" height="412"/>
+	<SubTexture name="Head IDLE0005" x="0" y="436" width="609" height="412"/>
+	<SubTexture name="Head IDLE0006" x="609" y="436" width="609" height="412"/>
+	<SubTexture name="Head IDLE0007" x="1218" y="436" width="609" height="412"/>
+	<SubTexture name="Head IDLE0008" x="832" y="0" width="609" height="412"/>
+	<SubTexture name="Head LEFT NOTE0000" x="1827" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0001" x="1827" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0002" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0003" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0004" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0005" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0006" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0007" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0008" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0009" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0010" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0011" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0012" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0013" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head LEFT NOTE0014" x="2371" y="436" width="544" height="367"/>
+	<SubTexture name="Head RIGHT NOTE0000" x="2915" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0001" x="2915" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0002" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0003" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0004" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0005" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0006" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0007" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0008" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0009" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0010" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0011" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0012" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0013" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head RIGHT NOTE0014" x="3336" y="436" width="421" height="429"/>
+	<SubTexture name="Head UP NOTE0000" x="0" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0001" x="0" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0002" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0003" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0004" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0005" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0006" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0007" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0008" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0009" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0010" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0011" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0012" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0013" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head UP NOTE0014" x="453" y="865" width="453" height="399"/>
+	<SubTexture name="Head With Card0000" x="906" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0001" x="906" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0002" x="1573" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0003" x="1573" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0004" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0005" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0006" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0007" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0008" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0009" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0010" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0011" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0012" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0013" x="2240" y="865" width="667" height="391"/>
+	<SubTexture name="Head With Card0014" x="2240" y="865" width="667" height="391"/>
+</TextureAtlas>

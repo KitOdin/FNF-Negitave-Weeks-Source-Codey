@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joshua_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Josh Down0000" x="3" y="3" width="349" height="328" pivotX="-342.6" pivotY="105.15"/>
+	<SubTexture name="Josh Down0001" x="3" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0002" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0003" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0004" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0005" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0006" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0007" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0008" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0009" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0010" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0011" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0012" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Down0013" x="355" y="3" width="349" height="328"/>
+	<SubTexture name="Josh Idle0000" x="707" y="3" width="379" height="387" pivotX="-299.8" pivotY="176.6"/>
+	<SubTexture name="Josh Idle0001" x="707" y="3" width="379" height="387"/>
+	<SubTexture name="Josh Idle0002" x="1089" y="3" width="379" height="387"/>
+	<SubTexture name="Josh Idle0003" x="1089" y="3" width="379" height="387"/>
+	<SubTexture name="Josh Idle0004" x="1471" y="3" width="379" height="387"/>
+	<SubTexture name="Josh Idle0005" x="1471" y="3" width="379" height="387"/>
+	<SubTexture name="Josh Idle0006" x="3" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0007" x="3" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0008" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0009" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0010" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0011" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0012" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Idle0013" x="385" y="393" width="379" height="387"/>
+	<SubTexture name="Josh Left0000" x="767" y="393" width="377" height="377" pivotX="-295.85" pivotY="165.45"/>
+	<SubTexture name="Josh Left0001" x="767" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0002" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0003" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0004" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0005" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0006" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0007" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0008" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0009" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0010" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0011" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0012" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0013" x="1147" y="393" width="377" height="377"/>
+	<SubTexture name="Josh Left0014" x="1527" y="393" width="377" height="377"/>
+	<SubTexture name="Josh right0000" x="3" y="783" width="381" height="355" pivotX="-242.8" pivotY="25.85"/>
+	<SubTexture name="Josh right0001" x="3" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0002" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0003" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0004" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0005" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0006" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0007" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0008" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0009" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0010" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0011" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0012" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0013" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0014" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0015" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0016" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0017" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh right0018" x="387" y="783" width="381" height="355"/>
+	<SubTexture name="Josh up0000" x="771" y="783" width="385" height="385" pivotX="-251.6" pivotY="55.6"/>
+	<SubTexture name="Josh up0001" x="771" y="783" width="385" height="385"/>
+	<SubTexture name="Josh up0002" x="1159" y="783" width="385" height="385"/>
+	<SubTexture name="Josh up0003" x="1159" y="783" width="385" height="385"/>
+	<SubTexture name="Josh up0004" x="1159" y="783" width="385" height="385"/>
+	<SubTexture name="Josh up0005" x="1159" y="783" width="385" height="385"/>
+	<SubTexture name="Josh up0006" x="1159" y="783" width="385" height="385"/>
+</TextureAtlas>

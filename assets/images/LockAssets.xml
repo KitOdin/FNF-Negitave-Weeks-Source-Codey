@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LockAssets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Locky Down0000" x="0" y="0" width="324" height="352" frameX="-7" frameY="0" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0001" x="0" y="0" width="324" height="352" frameX="-7" frameY="0" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0002" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0003" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0004" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0005" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0006" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0007" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0008" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Down0009" x="324" y="0" width="324" height="351" frameX="0" frameY="-1" frameWidth="331" frameHeight="352"/>
+	<SubTexture name="Locky Idle Dance0000" x="648" y="0" width="330" height="354" frameX="0" frameY="-4" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0001" x="978" y="0" width="327" height="354" frameX="-2" frameY="-4" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0002" x="1305" y="0" width="308" height="355" frameX="-18" frameY="-3" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0003" x="1613" y="0" width="303" height="358" frameX="-19" frameY="0" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0004" x="0" y="358" width="303" height="358" frameX="-18" frameY="0" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0005" x="303" y="358" width="304" height="358" frameX="-18" frameY="0" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0006" x="607" y="358" width="305" height="357" frameX="-19" frameY="-1" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0007" x="912" y="358" width="320" height="355" frameX="-8" frameY="-3" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0008" x="1232" y="358" width="329" height="354" frameX="-1" frameY="-4" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Idle Dance0009" x="648" y="0" width="330" height="354" frameX="0" frameY="-4" frameWidth="330" frameHeight="358"/>
+	<SubTexture name="Locky Left0000" x="1561" y="358" width="349" height="342" frameX="0" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0001" x="1561" y="358" width="349" height="342" frameX="0" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0002" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0003" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0004" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0005" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0006" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0007" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0008" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Left0009" x="0" y="716" width="349" height="342" frameX="-8" frameY="0" frameWidth="357" frameHeight="342"/>
+	<SubTexture name="Locky Right0000" x="349" y="716" width="377" height="357" frameX="-10" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0001" x="349" y="716" width="377" height="357" frameX="-10" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0002" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0003" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0004" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0005" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0006" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0007" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0008" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Right0009" x="726" y="716" width="377" height="357" frameX="0" frameY="0" frameWidth="387" frameHeight="357"/>
+	<SubTexture name="Locky Up0000" x="1103" y="716" width="327" height="390"/>
+	<SubTexture name="Locky Up0001" x="1103" y="716" width="327" height="390"/>
+	<SubTexture name="Locky Up0002" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0003" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0004" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0005" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0006" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0007" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0008" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+	<SubTexture name="Locky Up0009" x="1430" y="716" width="327" height="380" frameX="0" frameY="-10" frameWidth="327" frameHeight="390"/>
+</TextureAtlas>
