@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpeakerBod.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpeakerBoi0000" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0001" x="210" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0002" x="210" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0003" x="0" y="236" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0004" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0005" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0006" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0007" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0008" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0009" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0010" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0011" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0012" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0013" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0014" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0015" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0016" x="210" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0017" x="210" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0018" x="0" y="236" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0019" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0020" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0021" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0022" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0023" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0024" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0025" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0026" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0027" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0028" x="0" y="0" width="210" height="236"/>
+	<SubTexture name="SpeakerBoi0029" x="0" y="0" width="210" height="236"/>
+</TextureAtlas>

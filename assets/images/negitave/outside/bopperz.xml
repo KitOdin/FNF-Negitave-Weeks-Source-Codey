@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bopperz.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bopbop0000" x="0" y="0" width="528" height="222"/>
+	<SubTexture name="bopbop0001" x="528" y="0" width="528" height="222"/>
+	<SubTexture name="bopbop0002" x="1056" y="0" width="528" height="222"/>
+	<SubTexture name="bopbop0003" x="0" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0004" x="528" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0005" x="528" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0006" x="528" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0007" x="528" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0008" x="528" y="222" width="528" height="222"/>
+	<SubTexture name="bopbop0009" x="528" y="222" width="528" height="222"/>
+</TextureAtlas>
