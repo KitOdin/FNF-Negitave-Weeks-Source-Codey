@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weekAssets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WEEK Minus1 select0000" x="10" y="10" width="402" height="89"/>
+	<SubTexture name="WEEK Minus1 select0001" x="422" y="10" width="402" height="89"/>
+	<SubTexture name="WEEK1 select0000" x="834" y="10" width="360" height="89"/>
+	<SubTexture name="WEEK1 select0001" x="1204" y="10" width="360" height="89"/>
+	<SubTexture name="Week 3 press0000" x="1574" y="10" width="358" height="89"/>
+	<SubTexture name="Week 3 press0001" x="10" y="109" width="358" height="89"/>
+	<SubTexture name="Week 4 press0000" x="378" y="109" width="355" height="89"/>
+	<SubTexture name="Week 4 press0001" x="743" y="109" width="355" height="89"/>
+	<SubTexture name="Week 60000" x="1108" y="109" width="359" height="92"/>
+	<SubTexture name="Week 60001" x="1477" y="109" width="359" height="92"/>
+	<SubTexture name="tutorial selected0000" x="10" y="211" width="443" height="82"/>
+	<SubTexture name="tutorial selected0001" x="463" y="211" width="443" height="82"/>
+	<SubTexture name="week 2 CANNOT select0000" x="916" y="211" width="383" height="87"/>
+	<SubTexture name="week 2 CANNOT select0001" x="1309" y="211" width="383" height="87"/>
+	<SubTexture name="week 2 CANNOT select0002" x="10" y="308" width="383" height="87"/>
+	<SubTexture name="week 2 CANNOT select0003" x="403" y="308" width="383" height="87"/>
+	<SubTexture name="week 2 CANNOT select0004" x="796" y="308" width="383" height="87"/>
+	<SubTexture name="week 2 CANNOT select0005" x="796" y="308" width="383" height="87"/>
+	<SubTexture name="week 50000" x="1189" y="308" width="364" height="91"/>
+	<SubTexture name="week 50001" x="1563" y="308" width="364" height="91"/>
+	<SubTexture name="week Minus20000" x="10" y="409" width="413" height="87"/>
+	<SubTexture name="week Minus20001" x="433" y="409" width="413" height="87"/>
+	<SubTexture name="week2 select0000" x="856" y="409" width="361" height="87"/>
+	<SubTexture name="week2 select0001" x="1227" y="409" width="361" height="87"/>
+</TextureAtlas>
