@@ -1,0 +1,2 @@
+NOTICE!
+The flashFiles folder is missing cause ko-side stuff is in there and i dont wanna leak it!
