@@ -8,13 +8,21 @@ get haxe 4.1.5
 do these commands
 
 `haxelib install lime`
+
 `haxelib install openfl`
+
 `haxelib install flixel`
+
 `haxelib install flixel-addons`
+
 `haxelib install flixel-ui`
+
 `haxelib install hscript`
+
 `haxelib install newgrounds`
+
 `haxelib git polymod https://github.com/larsiusprime/polymod.git`
+
 `haxelib run lime setup`
 
 after those commands.
@@ -28,5 +36,7 @@ and maybe even get this  too : `Windows SDK (10.0.17763.0)`
 then run either this command.
 
 `haxelib run lime test windows`
+
 or this one.
+
 `haxelib run lime test neko -debug`
