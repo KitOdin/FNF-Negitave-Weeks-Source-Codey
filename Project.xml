@@ -53,6 +53,7 @@
 	<assets path="assets/sounds" include="*.mp3" if="web" />
 	<assets path="assets/sounds" include="*.ogg" unless="web" />
 
+	<assets path="LICENSE" rename='licensey.txt'/>
 	<assets path="CHANGELOG.md"/>
 	
 	<assets path="art/readmefile.txt" rename='read me for tom fulp sakes.txt'/>
