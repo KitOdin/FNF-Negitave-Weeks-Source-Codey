@@ -1,2 +1,3 @@
 NOTICE!
 The flashFiles folder is missing cause ko-side stuff is in there and i dont wanna leak it!
+but there is flash8files witch has Most of the character and bg stuff.
